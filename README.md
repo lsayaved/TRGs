@@ -3,23 +3,23 @@ Collection of scripts to look for the TRGs described in the paper [Abundant toxi
 
 Looking for toxin-related genes (TRGs) in bacterial genomes is not a straightforward task. The functional domains have often a mosaic-like structure that makes classification a difficult task. To look for TRGs in multiple genomes without the pain of doing it manually, I created a workflow of classification for the follow up paper "Comparative genomic inisghts into the roles of toxin-realted genes in the beneficial bacteria and their acquisition by horizontal gene transfer" (in prep).
 
-1. Blast protein sequences of the genomes you want to look at against the TRG proteins from the Bathy SOX described in [Sayavedra et al., 2015] (https://elifesciences.org/content/4/e07966).
+- Blast protein sequences of the genomes you want to look at against the TRG proteins from the Bathy SOX described in [Sayavedra et al., 2015] (https://elifesciences.org/content/4/e07966).
 
 ```
 blastp -query Genomes.faa -db ~/ownCloud/ToxinsOtherSOXs/BLAST/bathyt_toxins.faa -max_target_seqs 50 -outfmt "6 std qcovs" -evalue 0.001 -out Genes2Search_vsTRGs.txt
 ```
 
-2. Use minimum similarity of 25, minimum alignment of 200, minimum coverage of 15
+- Use minimum similarity of 25, minimum alignment of 200, minimum coverage of 15
 
 ```
 cat Genes2Search_vsTRGs.txt  | awk '{if ($3>25 && ($13>25 && $4>50) || ($13>15 && $4>200) ) print $0}' | perl -pe "s/(\S+).*/\1/" | sort -u  >Genes2Search_vsTRGs.blastSim25Cov25.txt
 ```
 
-3. Submit genes from the TRGs paper to the CD-Search Tool, standard settings
+- Submit genes from the TRGs paper to the CD-Search Tool, standard settings
 
-4. Download results full, include query defline
+- Download results full, include query defline
 
-5. Use the list that describes which domains are associated to which class of toxins [DomainsClassifier.txt]()
+- Use the list that describes which domains are associated to which class of toxins [DomainsClassifier.txt]()
 
 ```
 perl ~/Dropbox/perl_scripts/Findidentifiers_printseq.pl -inident BLAST_possibleToxinsInRelativesIDsSIm25COv50.txt -inseq ~�/ownCloud/ToxinsOtherSOXs/SpeciesTree/fnnGenomes/Genes2Search.faa  -o BLAST_possibleToxinsInRelativesSIm25COv50.faa
