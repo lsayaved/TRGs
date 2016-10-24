@@ -1,7 +1,9 @@
 # Toxin-related genes (TRGs)
-Collection of scripts to look for the TRGs described in the paper [Abundant toxin-related genes in the genomes of beneficial symbionts from deep-sea hydrothermal vent mussels](https://elifesciences.org/content/4/e07966)
+Collection of scripts to look for the TRGs described in the paper [Abundant toxin-related genes in the genomes of beneficial symbionts from deep-sea hydrothermal vent mussels, Sayavedra et al., 2015](https://elifesciences.org/content/4/e07966)
 
 Looking for toxin-related genes (TRGs) in bacterial genomes is not a straightforward task. The functional domains have often a mosaic-like structure that makes classification a difficult task. To look for TRGs in multiple genomes without the pain of doing it manually, I created a workflow of classification for the follow up paper "Comparative genomic inisghts into the roles of toxin-realted genes in the beneficial bacteria and their acquisition by horizontal gene transfer" (in prep).
+
+The folllowing is the draft of the protocol that was used! The code will be cleaned and updated.
 
 - Blast protein sequences of the genomes you want to look at against the TRG proteins from the Bathy SOX described in [Sayavedra et al., 2015] (https://elifesciences.org/content/4/e07966).
 
