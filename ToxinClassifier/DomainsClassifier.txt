@@ -1,0 +1,133 @@
+Accession	MARTX	RTX	RHS	RTXactivator	Class
+COG2831	0.01	0	0	1	MARTX activator
+TIGR03346	0.01	0	0	0	MARTX (In combination)
+COG1196	0.01	0	0	0	MARTX (In combination)
+TIGR02168	0.01	0	0	0	MARTX (In combination)
+TIGR02169	0.01	0	0	0	MARTX (In combination)
+PRK03918	0.01	0	0	0	MARTX (In combination)
+TIGR04523	0.01	0	0	0	MARTX (In combination)
+PTZ00121	0.01	0	0	0	MARTX (In combination)
+COG5271	0.01	0	0	0	MARTX (In combination)
+PRK12704	0.01	0	0	0	MARTX (In combination)
+TIGR01612	0.01	0	0	0	MARTX (In combination)
+TIGR04211	0.01	0	0	0	MARTX (In combination)
+cl05436	0.01	0	0	0	MARTX (In combination)
+cl16241	0.01	0	0	0	MARTX (In combination)
+cl22487	0.01	0	0	0	MARTX (In combination)
+COG0419	0.01	0	0	0	MARTX (In combination)
+COG2268	0.01	0	0	0	MARTX (In combination)
+COG3064	0.01	0	0	0	MARTX (In combination)
+COG3096	0.01	0	0	0	MARTX (In combination)
+COG3264	0.01	0	0	0	MARTX (In combination)
+COG3599	0.01	0	0	0	MARTX (In combination)
+COG4372	0.01	0	0	0	MARTX (In combination)
+COG4477	0.01	0	0	0	MARTX (In combination)
+COG4717	0.01	0	0	0	MARTX (In combination)
+COG4913	0.01	0	0	0	MARTX (In combination)
+COG4942	0.01	0	0	0	MARTX (In combination)
+COG5281	0.01	0	0	0	MARTX (In combination)
+pfam02463	0.01	0	0	0	MARTX (In combination)
+pfam03344	0.01	0	0	0	MARTX (In combination)
+pfam03865	0.01	0.01	0	1	MARTX (In combination)
+pfam04094	0.01	0	0	0	MARTX (In combination)
+pfam04111	0.01	0	0	0	MARTX (In combination)
+pfam05262	0.01	0	0	0	MARTX (In combination)
+pfam05483	0.01	0	0	0	MARTX (In combination)
+pfam05616	0.01	0	0	0	MARTX (In combination)
+pfam05667	0.01	0	0	0	MARTX (In combination)
+pfam05672	0.01	0	0	0	MARTX (In combination)
+pfam05860	0.01	0	0	0	MARTX (In combination)
+pfam05917	0.01	0	0	0	MARTX (In combination)
+pfam07111	0.01	0	0	0	MARTX (In combination)
+pfam07263	0.01	0	0	0	MARTX (In combination)
+pfam07423	0.01	0	0	0	MARTX (In combination)
+pfam07888	0.01	0	0	0	MARTX (In combination)
+pfam08317	0.01	0	0	0	MARTX (In combination)
+pfam09726	0.01	0	0	0	MARTX (In combination)
+pfam09756	0.01	0	0	0	MARTX (In combination)
+pfam10168	0.01	0	0	0	MARTX (In combination)
+pfam10174	0.01	0	0	0	MARTX (In combination)
+pfam11600	0.01	0	0	0	MARTX (In combination)
+pfam12128	0.01	0	0	0	MARTX (In combination)
+pfam13166	0.01	0	0	0	MARTX (In combination)
+pfam13332	0.01	0	0	0	MARTX (In combination)
+pfam13514	0.01	0	0	0	MARTX (In combination)
+pfam13868	0.01	0	0	0	MARTX (In combination)
+PHA02562	0.01	0	0	0	MARTX (In combination)
+PRK00247	0.01	0	0	0	MARTX (In combination)
+PRK00409	0.01	0	0	0	MARTX (In combination)
+PRK02224	0.01	0	0	0	MARTX (In combination)
+PRK04863	0.01	0	0	0	MARTX (In combination)
+PRK05035	0.01	0	0	0	MARTX (In combination)
+PRK05771	0.01	0	0	0	MARTX (In combination)
+PRK06975	0.01	0	0	0	MARTX (In combination)
+PRK08581	0.01	0	0	0	MARTX (In combination)
+PRK09418	0.01	0	0	0	MARTX (In combination)
+PRK09510	0.01	0	0	0	MARTX (In combination)
+PRK11281	0.01	0	0	0	MARTX (In combination)
+PRK11448	0.01	0	0	0	MARTX (In combination)
+PRK12705	0.01	0	0	0	MARTX (In combination)
+PRK13914	0.01	0	0	0	MARTX (In combination)
+PTZ00108	0.01	0	0	0	MARTX (In combination)
+PTZ00491	0.01	0	0	0	MARTX (In combination)
+smart00283	0.01	0	0	0	MARTX (In combination)
+smart00912	0.01	0	0	0	MARTX (In combination)
+TIGR00606	0.01	0	0	0	MARTX (In combination)
+TIGR00618	0.01	0	0	0	MARTX (In combination)
+TIGR01901	0.01	0	0	0	MARTX (In combination)
+TIGR02680	0.01	0	0	0	MARTX (In combination)
+TIGR02794	0.01	0	0	0	MARTX (In combination)
+TIGR04320	0.01	0	0	0	MARTX (In combination)
+pfam08479	0.01	0.01	0	1	MARTX activator
+pfam05701	1	0	1	0	MARTX/RHS
+cl13207	1	1	0	0	MARTX/RTX
+COG2931	2	2	0	0	MARTX/RTX
+pfam05557	1	1	0	0	MARTX/RTX
+pfam08548	0.6	0.5	0	0	MARTX/RTX
+pfam11713	1.01	0.5	0	0	MARTX/RTX, more common in MARTX
+cl21453	0.05	0.05	0	0	MARTX/RTX (in combination)
+TIGR02172	0.01	0.01	0	0	"MARTX/RTX, not specific"
+PRK15244	0	0	2	0	RHS
+TIGR03696	0	0	2	0	RHS
+cl14012	0	0	2	0	RHS
+pfam05593	0	0	2	0	RHS
+cl11982	0	0	2	0	RHS
+COG3209	0	0	2	0	RHS
+pfam03534	0	0	2	0	RHS
+pfam12255	0	0	2	0	RHS
+cl13662	0	0	2	0	RHS
+pfam12256	0	0	2	0	RHS
+cl13663	0	0	2	0	RHS
+cl21563	2	0	2	0	RHS
+pfam03538	0	0	2	0	RHS
+cl21676	0	0	2	0	RHS
+TIGR01643	0	0	2	0	RHS
+cl16721	0	0	0.1	0	RHS (in combination)
+cl17169	0	0	0.1	0	RHS (in combination)
+cl15554	0	0	0.1	0	RHS (in combination)
+pfam13517	1	0	1	0	RHS (in combination)
+COG5153	0	2	0	0	RTX
+PHA02584	0	1	0	0	RTX (in combination)
+cl21494	0	0.5	0	0	RTX (in combination)
+pfam13529	0	1	0	0	RTX (in combination)
+cl00296	0	0.5	0	0	RTX?
+TIGR03661	2	2	0	0	Type 1SS
+cl15337	2	2	0	0	Type 1SS
+cd11304	0.01	0	0	0	MARTX (in combination)
+pfam13754	0.01	0	0	0	MARTX (in combination)
+pfam13205	0.01	0	0	0	MARTX (in combination)
+cl16375	0.01	0	0	0	MARTX (in combination)
+pfam13750	0.01	0	0	0	MARTX (in combination)
+pfam03160	1	1	0	0	MARTX/RTX
+TIGR03660	2	2	0	0	Type 1SS
+cl11927	2	2	0	0	Type 1SS
+cl05885	0	1	0	0	Hemolysin cabind
+cl00125	-10	-10	-10	0	Rhodonase
+smart00191	-10	-10	-10	0	Integrin
+cl04784	1	0	0	MARTX
+TIGR01982	-10	-10	-10	0	Ubiquinone
+TIGR01738	-10	-10	-10	0	Biotin
+pfam09000	1	0	0	0	MARTX
+pfam05860	0.5	0	0	0	MARTX
+pfam04830	0.5	0	0	0	MARTX
+cl16241	0.5	0	0	0	MARTX
